@@ -1,4 +1,4 @@
-###Code Tiranga Challenge Website
+#Code Tiranga Challenge Website
 This is a complete, self-contained website for an Independence Day event, built for the "Code Tiranga Challenge." It is designed to be visually patriotic, interactive, and fully responsive across all devices.
 
 #🌟 Features
@@ -22,8 +22,8 @@ Dark Mode: A user-friendly toggle to switch between light and dark modes, ensuri
 
 Fully Responsive: The website layout and elements are designed to adapt seamlessly to different screen sizes, from mobile phones to desktop computers.
 
-###💻 Technologies Used : NextJS ,Tailwind css
+#💻 Technologies Used : NextJS ,Tailwind css
 
 
-###▶️ Link to preview :
+#▶️ Link to preview :
 https://independence-day-webpage.vercel.app/
