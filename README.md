@@ -1,7 +1,7 @@
-Code Tiranga Challenge Website
+#Code Tiranga Challenge Website
 This is a complete, self-contained website for an Independence Day event, built for the "Code Tiranga Challenge." It is designed to be visually patriotic, interactive, and fully responsive across all devices.
 
-🌟 Features
+#🌟 Features
 Tricolour Hero Section: A dynamic landing page with a waving tricolour flag, a live countdown to August 15th, and a pulsating Ashoka Chakra.
 
 Parallax Effect: The hero section uses a parallax effect to create a sense of depth as you scroll, enhancing the visual experience.
@@ -22,20 +22,8 @@ Dark Mode: A user-friendly toggle to switch between light and dark modes, ensuri
 
 Fully Responsive: The website layout and elements are designed to adapt seamlessly to different screen sizes, from mobile phones to desktop computers.
 
-💻 Technologies Used
-This website is built entirely with standard web technologies, making it easy to run and host:
+#💻 Technologies Used : NextJS ,Tailwind css
 
-HTML5: For the website structure.
 
-CSS3: For styling and animations, including a custom color palette and keyframe animations.
-
-JavaScript (Vanilla JS): For all interactive functionalities, including the countdown timer, gallery filters, and dynamic effects.
-
-Tailwind CSS (CDN): Used for rapid, utility-first styling.
-
-Canvas Confetti (CDN): For the celebratory confetti effect on the pledge wall.
-
-▶️ How to Run
-Save the file: Copy the entire code block into a new file and save it as index.html.
-
-Open in browser: Double-click the file to open it in any modern web browser (e.g., Chrome, Firefox, Safari).
+#▶️ Link to preview :
+https://independence-day-webpage.vercel.app/
